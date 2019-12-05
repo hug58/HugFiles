@@ -1,3 +1,6 @@
 [submodule "HugFiles-server"]
 	path = HugFiles-server
 	url = https://github.com/hug58/HugFiles-server.git
+[submodule "HugFiles-client"]
+	path = HugFiles-client
+	url = https://github.com/hug58/HugFiles-client.git
