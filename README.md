@@ -1,5 +1,6 @@
 # HugFiles
 <p> HugFiles sincroniza las carpetas de los clientes con el servidor como dropbox o megasync </p>
+<img src='https://github.com/hug58/HugFiles/blob/master/capture.png' >
 
 ## Requisitos
 <p> Se necesita python 3.6 min para las funciones async/await </p>
