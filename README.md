@@ -35,9 +35,11 @@ Con  ```  client.py  ``` es suficiente
 ### Cliente web
 
 Comprobamos la dirección pública de la api
-<img src='https://github.com/hug58/HugFiles/blob/master/app.png' >
+<img src='https://github.com/hug58/HugFiles/blob/master/app.PNG' >
+<br>
 Ingresamos (por los momentos solo se puede descargar desde el cliente web)
-<img src='https://github.com/hug58/HugFiles/blob/master/client_web.png' >
+<br>
+<img src='https://github.com/hug58/HugFiles/blob/master/client_web.PNG' >
 
 
 
