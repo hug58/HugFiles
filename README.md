@@ -1,4 +1,8 @@
-# HugFiles
+
+
+# HugFiles 
+
+<a href="https://twitter.com/hug588"> twitter.com/hug588 </a>
 <p> HugFiles sincroniza las carpetas de los clientes con el servidor como dropbox o megasync </p>
 <img src='https://github.com/hug58/HugFiles/blob/master/capture.png' >
 
@@ -16,7 +20,7 @@ git submodule update
 <p> todas las dependencias requeridas vienen en requirement.txt, para instalar: </p>
 
 ```python
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Por el momento no hay opciones de sincronizacion de las carpetas del servidor(lo traerá todo).
