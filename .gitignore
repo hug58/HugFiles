@@ -1,5 +1,6 @@
-
-.venv
-.idea/*
-data/
+*.json
+data/*
+venv/
 __pycache__/*
+utils/__pycache__/*
+.idea/*
